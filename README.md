@@ -1,4 +1,4 @@
-Price Prediction Project made in jupiter and with pyhton
+Price Prediction Project made in jupiter and with python
 
 
 Steps to use the project:
